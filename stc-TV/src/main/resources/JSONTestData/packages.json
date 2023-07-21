@@ -1,0 +1,61 @@
+{
+  "country": {
+    "SA": {
+      "lite": {
+        "en_name": "LITE",
+        "ar_name": "لايت",
+        "price": "15"
+      },
+      "classic": {
+        "en_name": "CLASSIC",
+        "ar_name": "الأساسية",
+        "price": "25"
+      },
+      "premium": {
+        "en_name": "PREMIUM",
+        "ar_name": "بريميوم",
+        "price": "60"
+      },
+      "en_currency": "SAR",
+      "ar_currency": "ريال سعودي"
+    },
+    "Kuwait": {
+      "lite": {
+        "en_name": "LITE",
+        "ar_name": "لايت",
+        "price": "1.2"
+      },
+      "classic": {
+        "en_name": "CLASSIC",
+        "ar_name": "الأساسية",
+        "price": "2.5"
+      },
+      "premium": {
+        "en_name": "PREMIUM",
+        "ar_name": "بريميوم",
+        "price": "4.8"
+      },
+      "en_currency": "KWD",
+      "ar_currency": "دينار كويتي"
+    },
+    "Bahrain": {
+      "lite": {
+        "en_name": "LITE",
+        "ar_name": "لايت",
+        "price": "2"
+      },
+      "classic": {
+        "en_name": "CLASSIC",
+        "ar_name": "الأساسية",
+        "price": "3"
+      },
+      "premium": {
+        "en_name": "PREMIUM",
+        "ar_name": "بريميوم",
+        "price": "6"
+      },
+      "en_currency": "BHD",
+      "ar_currency": "\u202Bدينار بحريني"
+    }
+  }
+}
